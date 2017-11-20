@@ -1,0 +1,55 @@
+body {
+    margin:0;
+    padding:0;
+    background-image:url('../../images/login_bg.png');
+    text-align:center;
+}
+.loging_div{
+    position: relative;
+    text-align:center;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right:3px;
+    margin:0 auto;
+    border:2px solid #ffffff;
+    border-radius:20px;
+    width:70%;
+    top:1em;
+    height:auto;
+    justify-content:center;
+    align-items:center;
+    display:-webkit-flex;
+}
+#phone{
+    border:none;
+    background-color: transparent;
+    width: 100%;
+    outline: none;
+
+}
+#phone_next{
+    position: relative;
+    right: auto;
+    float:right;
+                            
+
+}
+
+
+#input_content{
+
+
+
+}
+
+#bottom_text{
+    
+  
+    vertical-align: bottom;
+    
+    width: 100%;
+    height: 100%;
+    text-align: center;
+
+}

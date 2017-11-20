@@ -1,0 +1,13 @@
+
+
+.middle_text{
+    font-size: 1.25em;
+}
+.small_text{
+    font-size:0.75em;
+}
+#body{
+    text-align: center;
+    width:100%; /* 必须制定宽度 */
+    height: 100%;
+}
